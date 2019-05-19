@@ -1,0 +1,6 @@
+本文件为百度富文本编辑器
+主要示例:?/Public/ueeditor/index.html
+完整示例:?/Public/ueeditor/completeDemo.html
+简要示例:?/Public/ueeditor/textareaDemo.html
+其他页面js路径不对,改下就行了.
+没有接收上传文件的后台方法.
